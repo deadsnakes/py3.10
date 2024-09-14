@@ -13,7 +13,7 @@ diff --git a/Lib/distutils/command/install.py b/Lib/distutils/command/install.py
 index 01d5331..d25b82f 100644
 --- a/Lib/distutils/command/install.py
 +++ b/Lib/distutils/command/install.py
-@@ -33,13 +33,13 @@ SCHEME_KEYS = ('purelib', 'platlib', 'headers', 'scripts', 'data')
+@@ -33,13 +33,13 @@
  # alter locations for packages installations in a single place.
  # Note that this module is deprecated (PEP 632); all consumers
  # of this information should switch to using sysconfig directly.
@@ -33,7 +33,7 @@ diff --git a/Lib/pydoc.py b/Lib/pydoc.py
 index e00ba41..497d33f 100755
 --- a/Lib/pydoc.py
 +++ b/Lib/pydoc.py
-@@ -31,6 +31,10 @@ to a file named "<name>.html".
+@@ -31,6 +31,10 @@ class or function within a module or module in a package.  If the
  
  Module docs for core modules are assumed to be in
  
@@ -48,7 +48,7 @@ diff --git a/Lib/sysconfig.py b/Lib/sysconfig.py
 index daf9f00..a7fcc7a 100644
 --- a/Lib/sysconfig.py
 +++ b/Lib/sysconfig.py
-@@ -56,7 +56,32 @@ _INSTALL_SCHEMES = {
+@@ -56,7 +56,32 @@
          'scripts': '{base}/Scripts',
          'data': '{base}',
          },

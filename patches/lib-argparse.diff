@@ -12,7 +12,7 @@ diff --git a/Lib/argparse.py b/Lib/argparse.py
 index 736bf5a..a23d6bb 100644
 --- a/Lib/argparse.py
 +++ b/Lib/argparse.py
-@@ -89,7 +89,16 @@ import os as _os
+@@ -89,7 +89,16 @@
  import re as _re
  import sys as _sys
  

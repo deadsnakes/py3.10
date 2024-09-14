@@ -1,3 +1,9 @@
+python3.10 (3.10.15-1-g0c5fc27217-1+noble1) noble; urgency=medium
+
+  * Update to v3.10.15-1-g0c5fc27217.
+
+ -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sat, 14 Sep 2024 22:27:17 +0000
+
 python3.10 (3.10.15-1+noble1) noble; urgency=medium
 
   * Python 3.10.15 release.
