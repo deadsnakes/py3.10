@@ -5,7 +5,6 @@ py3.10
 
 [mainline] and [nightly] builds are current supported for:
 
-- focal
 - noble
 
 [mainline]: https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
