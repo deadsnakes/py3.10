@@ -1,3 +1,9 @@
+python3.10 (3.10.19-6-g9524203dee-1+noble1) noble; urgency=medium
+
+  * Update to v3.10.19-6-g9524203dee.
+
+ -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Sat, 01 Nov 2025 08:49:43 +0000
+
 python3.10 (3.10.19-1-g014261980b-1+noble1) noble; urgency=medium
 
   * Update to v3.10.19-1-g014261980b.
