@@ -6,6 +6,7 @@ py3.10
 [mainline] and [nightly] builds are current supported for:
 
 - noble
+- resolute
 
 [mainline]: https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
 [nightly]: https://launchpad.net/~deadsnakes/+archive/ubuntu/nightly
