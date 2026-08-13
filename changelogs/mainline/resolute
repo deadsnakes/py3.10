@@ -1,3 +1,9 @@
+python3.10 (3.10.21-1+resolute1) resolute; urgency=medium
+
+  * Update to v3.10.21.
+
+ -- Anthony Sottile (deadsnakes) <asottile+deadsnakes@umich.edu>  Thu, 13 Aug 2026 09:45:30 +0000
+
 python3.10 (3.10.20-1+resolute1) resolute; urgency=medium
 
   * rebuild for resolute
